@@ -1,1 +1,1 @@
-This is a Simple-shell Project
+ALX Simple-shell Team Project
